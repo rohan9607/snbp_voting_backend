@@ -1,0 +1,182 @@
+{
+  "section1": [
+    {
+      "id": 1,
+      "student_name": "Ruturaj",
+      "nomineeFor": "head_boy",
+      "vote": 0,
+      "img": "/images/ruturaj_head_boy.png",
+      "section": "section1",
+      "std": "XA",
+      "housename": "Blue",
+      "logo": "Feng shui"
+    },
+    {
+      "id": 2,
+      "student_name": "Gaurav",
+      "nomineeFor": "head_boy",
+      "vote": 0,
+      "img": "/images/gaurav_head_boy.png",
+      "section": "section1",
+      "std": "XA",
+      "housename": "Yellow",
+      "logo": "Ant"
+    },
+    {
+      "id": 3,
+      "student_name": "Bhaumik",
+      "nomineeFor": "head_boy",
+      "vote": 0,
+      "img": "/images/bhaumik_head_boy.png",
+      "section": "section1",
+      "std": "IX A",
+      "housename": "Green",
+      "logo": "White Lotus"
+    },
+    {
+      "id": 4,
+      "student_name": "Zaiba",
+      "nomineeFor": "head_girl",
+      "vote": 1,
+      "img": "/images/zaiba_head_girl.png",
+      "section": "section1",
+      "std": "IX A",
+      "housename": "Red",
+      "logo": "Unity"
+    },
+    {
+      "id": 5,
+      "student_name": "Swara",
+      "nomineeFor": "head_girl",
+      "vote": 0,
+      "img": "/images/swara_head_girl.png",
+      "section": "section1",
+      "std": "IX",
+      "housename": "Green",
+      "logo": "Banyan Tree"
+    },
+    {
+      "id": 6,
+      "student_name": "Aaliya",
+      "nomineeFor": "head_girl",
+      "vote": 0,
+      "img": "/images/aliya_head_girl.png",
+      "section": "section1",
+      "std": "XA",
+      "housename": "Red",
+      "logo": "Butterfly"
+    },
+    {
+      "id": 7,
+      "student_name": "Anuj",
+      "nomineeFor": "sports_captain",
+      "vote": 0,
+      "img": "/images/anuj_sports_captain.png",
+      "section": "section1",
+      "std": "XA",
+      "housename": "Red",
+      "logo": "Sunil Chetri"
+    },
+    {
+      "id": 8,
+      "student_name": "Sadequa",
+      "nomineeFor": "sports_captain",
+      "vote": 0,
+      "img": "/images/sadequa_sports_captain.png",
+      "section": "section1",
+      "std": "IX A",
+      "housename": "Blue",
+      "logo": "Detriote red wings"
+    }
+  ],
+  "section2": [
+    {
+      "id": 1,
+      "student_name": "Aromal",
+      "nomineeFor": "house_captain",
+      "vote": 0,
+      "img": "/images/aromal_house_captain.png",
+      "section": "section2",
+      "std": "IX A",
+      "housename": "Red",
+      "logo": "Lion"
+    },
+    {
+      "id": 2,
+      "student_name": "Kirti",
+      "nomineeFor": "house_captain",
+      "vote": 0,
+      "img": "/images/kirti_house_captain.png",
+      "section": "section2",
+      "std": "IX A",
+      "housename": "Red",
+      "logo": "Eagle"
+    },
+    {
+      "id": 3,
+      "student_name": "Amit",
+      "nomineeFor": "house_captain",
+      "vote": 0,
+      "img": "/images/amit_house_captain.png",
+      "section": "section2",
+      "std": "VIII B",
+      "housename": "Green",
+      "logo": "Eagle"
+    },
+    {
+      "id": 4,
+      "student_name": "Ziyan",
+      "nomineeFor": "house_captain",
+      "vote": 0,
+      "img": "/images/ziyan_house_captain.png",
+      "section": "section2",
+      "std": "VIII B",
+      "housename": "Yellow",
+      "logo": "Book"
+    },
+    {
+      "id": 5,
+      "student_name": "Vedant",
+      "nomineeFor": "vice_captain",
+      "vote": 0,
+      "img": "/images/vedant_house_captain.png",
+      "section": "section2",
+      "std": "IX A",
+      "housename": "Red",
+      "logo": "Victory Hand"
+    },
+    {
+      "id": 6,
+      "student_name": "Apeksha",
+      "nomineeFor": "vice_captain",
+      "vote": 0,
+      "img": "/images/apeksha_vice_captain.png",
+      "section": "section2",
+      "std": "X A",
+      "housename": "Yellow",
+      "logo": "Star"
+    },
+    {
+      "id": 7,
+      "student_name": "Twinkle",
+      "nomineeFor": "vice_captain",
+      "vote": 0,
+      "img": "/images/twinkle_vice_captain.png",
+      "section": "section2",
+      "std": "IX A",
+      "housename": "Green",
+      "logo": "Right"
+    },
+    {
+      "id": 8,
+      "student_name": "Purva",
+      "vote": 0,
+      "nomineeFor": "prefect",
+      "img": "/images/purva_prefect.png",
+      "section": "section2",
+      "std": "X A",
+      "housename": "Yellow",
+      "logo": "Phenix Bird"
+    }
+  ]
+}
